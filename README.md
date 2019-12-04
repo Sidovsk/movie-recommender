@@ -1,2 +1,3 @@
 # movie-recommender
-A Work in Progress movie recommender
+
+Data mining work
